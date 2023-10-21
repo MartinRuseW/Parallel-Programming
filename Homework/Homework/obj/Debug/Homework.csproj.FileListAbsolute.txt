@@ -1,0 +1,16 @@
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Martin\Desktop\Parallel Programing\Homework\Homework\obj\Debug\Homework.pdb

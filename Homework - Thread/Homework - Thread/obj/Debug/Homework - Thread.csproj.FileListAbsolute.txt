@@ -1,0 +1,16 @@
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\bin\Debug\Homework - Thread.exe.config
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\bin\Debug\Homework - Thread.exe
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\bin\Debug\Homework - Thread.pdb
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.exe
+C:\Users\Martin\Desktop\Паралелно програмиране със C# и TPL\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\bin\Debug\Homework - Thread.exe.config
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\bin\Debug\Homework - Thread.exe
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\bin\Debug\Homework - Thread.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.exe
+C:\Users\Martin\Desktop\Parallel Programing\Homework - Thread\Homework - Thread\obj\Debug\Homework - Thread.pdb
