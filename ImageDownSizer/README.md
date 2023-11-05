@@ -1,0 +1,1 @@
+This is a Windows program for resizing images. It's got a straightforward design with three buttons and an input field for entering downsizing percentage. The first one is for picking an image to work with. The other two buttons let you shrink the picture down - one does it the regular way, and the other uses threads.
