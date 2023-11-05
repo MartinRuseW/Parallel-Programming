@@ -1,0 +1,30 @@
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.exe.config
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.exe
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.pdb
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.Form1.resources
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.Properties.Resources.resources
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.exe
+C:\Users\Martin\Desktop\New folder (7)\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.pdb
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.exe.config
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.exe
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.pdb
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.Form1.resources
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.Properties.Resources.resources
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.exe
+C:\Users\Martin\Desktop\Parallel Programing\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.Form1.resources
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.Properties.Resources.resources
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.exe
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\obj\Debug\ImageDownSizer1.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.exe.config
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.exe
+C:\Users\Martin\Desktop\Parallel Programing\Parallel-Programming\ImageDownSizer\ImageDownSizer1\bin\Debug\ImageDownSizer1.pdb
