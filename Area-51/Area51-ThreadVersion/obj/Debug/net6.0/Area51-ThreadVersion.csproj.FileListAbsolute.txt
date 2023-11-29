@@ -1,0 +1,14 @@
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\bin\Debug\net6.0\Area51-ThreadVersion.exe
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\bin\Debug\net6.0\Area51-ThreadVersion.deps.json
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\bin\Debug\net6.0\Area51-ThreadVersion.runtimeconfig.json
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\bin\Debug\net6.0\Area51-ThreadVersion.dll
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\bin\Debug\net6.0\Area51-ThreadVersion.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.dll
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\refint\Area51-ThreadVersion.dll
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.pdb
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\Area51-ThreadVersion.genruntimeconfig.cache
+C:\Users\Martin\Desktop\Parallel Programing\Area-51\Area51-ThreadVersion\obj\Debug\net6.0\ref\Area51-ThreadVersion.dll
